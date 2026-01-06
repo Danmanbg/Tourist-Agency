@@ -48,4 +48,4 @@ Sample users and destinations included for testing
 Minimal CSS design included
 
 Links
-Repository:
+Repository: https://github.com/Danmanbg/Tourist-Agency
